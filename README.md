@@ -1,3 +1,5 @@
+# Email Spam Filter using .txt files
+
 This is a program the sorts out emails by removing all the spam emails and displaying only relevant emails.
 
 Description: There are 2 main files to consider: spamlist_10k.txt and emails_1k.txt. In this project, we read in the spam file and filter it against the emails to display 
